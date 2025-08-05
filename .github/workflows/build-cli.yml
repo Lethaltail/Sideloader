@@ -2,6 +2,7 @@ name: CLI builds
 
 on: push
 
+
 env:
   BUILD_TYPE: Release
 
